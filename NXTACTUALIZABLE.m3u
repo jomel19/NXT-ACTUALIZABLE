@@ -1,0 +1,825 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="LATINA ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/latina-hd.png", LATINA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/1169
+#EXTINF:0 type="stream" channelId="2545" name="LATINA" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/latina.png", LATINA
+http://nxt.plus:8080/Belen/1234/43546
+#EXTINF:0 type="stream" channelId="-1" name="AMERICA TV ᴴᴰ" group="PERÚ" logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png", AMERICA TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/192588
+#EXTINF:0 type="stream" channelId="2546" name="AMERICA TV" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/america-tv-hd.png", AMERICA TV
+http://nxt.plus:8080/Belen/1234/43500
+#EXTINF:0 type="stream" channelId="1956" name="PANAMERICANA TV" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/panamericana-tv.png", PANAMERICANA TV
+http://nxt.plus:8080/Belen/1234/43552
+#EXTINF:0 type="stream" channelId="962" name="ATV" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/atv.png", ATV
+http://nxt.plus:8080/Belen/1234/43498
+#EXTINF:0 type="stream" channelId="-1" name="CANAL N ᴴᴰ*" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/canal-n-hd.png", CANAL N ᴴᴰ*
+http://nxt.plus:8080/Belen/1234/116427
+#EXTINF:0 type="stream" channelId="-1" name="CANAL N" group="PERÚ" logo="https://www.lyngsat.com/logo/tv/cc/canal-n.png", CANAL N
+http://nxt.plus:8080/Belen/1234/187868
+#EXTINF:0 type="stream" channelId="-1" name="EXITOSA ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/exitosa-hd.png", EXITOSA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/18054
+#EXTINF:0 type="stream" channelId="4804" name="WILLAX" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/willax.png", WILLAX
+http://nxt.plus:8080/Belen/1234/14446
+#EXTINF:0 type="stream" channelId="2543" name="TV PERÚ 7.3" group="PERÚ", TV PERÚ 7.3
+http://nxt.plus:8080/Belen/1234/187983
+#EXTINF:0 type="stream" channelId="1426" name="GLOBAL" group="PERÚ" logo="https://www.lyngsat.com/logo/tv/gg/global-tv-pe.png", GLOBAL
+http://nxt.plus:8080/Belen/1234/187914
+#EXTINF:0 type="stream" channelId="-1" name="RPP" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/rpp.png", RPP
+http://nxt.plus:8080/Belen/1234/169457
+#EXTINF:0 type="stream" channelId="-1" name="TV PERÚ INTERNACIONAL" group="PERÚ" logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-internacional-pe.png", TV PERÚ INTERNACIONAL
+http://nxt.plus:8080/Belen/1234/172482
+#EXTINF:0 type="stream" channelId="-1" name="PERÚ MÁGICO" group="PERÚ" logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png", PERÚ MÁGICO
+http://nxt.plus:8080/Belen/1234/172481
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR PLUS" group="PERÚ" logo="https://www.lyngsat.com/logo/tv/mm/movistar-plus-pe.png", MOVISTAR PLUS
+http://nxt.plus:8080/Belen/1234/191173
+#EXTINF:0 type="stream" channelId="-1" name="LIGA 1" group="PERÚ" logo="https://i.ibb.co/d21NHQ2/Screenshot-3.png", LIGA 1
+http://nxt.plus:8080/Belen/1234/169426
+#EXTINF:0 type="stream" channelId="-1" name="LIGA 1 ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/liga1-hd.png", LIGA 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/167070
+#EXTINF:0 type="stream" channelId="-1" name="LIGA 1 MAX ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/liga1-max-hd.png", LIGA 1 MAX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/130639
+#EXTINF:0 type="stream" channelId="-1" name="PERU - LIGA 1 MAX" group="PERU" logo="http://descargas.podzone.net/logos/-liga-1.png", PERU - LIGA 1 MAX
+http://50.7.66.234:8080/sebaalv3z7/patr1c1a/1151341
+#EXTINF:0 type="stream" channelId="-1" name="BHTV ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/bhtv-hd.png", BHTV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/18053
+#EXTINF:0 type="stream" channelId="-1" name="CANAL IPE ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/canal-ipe-hd.png", CANAL IPE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58318
+#EXTINF:0 type="stream" channelId="-1" name="CULTURA 24 ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/cultura-24-hd.png", CULTURA 24 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16494
+#EXTINF:0 type="stream" channelId="-1" name="TV PERU NOTICIAS" group="PERÚ" logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-noticias-pe.png", TV PERU NOTICIAS
+http://nxt.plus:8080/Belen/1234/15642
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 2 | SUR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur-hd.png", FOX SPORTS 2 | SUR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13229
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 3 | SUR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png", FOX SPORTS 3 | SUR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24405
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 3 | AR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-ar-hd.png", FOX SPORTS 3 | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/81342
+#EXTINF:0 type="stream" channelId="-1" name="FOX DEPORTES | US ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-deportes-us-hd.png", FOX DEPORTES | US ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58606
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 1 | AR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-1-ar.png", FOX SPORTS 1 | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/166747
+#EXTINF:0 type="stream" channelId="1329" name="FOX SPORTS 1" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-1.png", FOX SPORTS 1
+http://nxt.plus:8080/Belen/1234/187911
+#EXTINF:0 type="stream" channelId="180" name="FOX SPORTS 3" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3.png", FOX SPORTS 3
+http://nxt.plus:8080/Belen/1234/187912
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 3 | SUR" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur.png", FOX SPORTS 3 | SUR
+http://nxt.plus:8080/Belen/1234/43533
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 2 | SUR" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur.png", FOX SPORTS 2 | SUR
+http://nxt.plus:8080/Belen/1234/761
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 1 | MX ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-1-mx-hd.png", FOX SPORTS 1 | MX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/29781
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 2 | AR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-ar.png", FOX SPORTS 2 | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/81341
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 3 | MX ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-mx-hd.png", FOX SPORTS 3 | MX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/29783
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS PREMIUM | MX ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-premium-mx-hd.png", FOX SPORTS PREMIUM | MX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/29785
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 2 | BR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-br-hd.png", FOX SPORTS 2 | BR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/56905
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS 1 | CL ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-1-cl-hd.png", FOX SPORTS 1 | CL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24404
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | CO" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co.png", ESPN 1 | CO
+http://nxt.plus:8080/Belen/1234/43528
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | CL ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png", ESPN 1 | CL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58201
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | AR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-arg-hd.png", ESPN 1 | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16497
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | CENTRO ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-centro-hd.png", ESPN 1 | CENTRO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25201
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | CO ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co-hd.png", ESPN 1 | CO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/766
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | PE ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-pe-hd.png", ESPN 1 | PE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58200
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | CL" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl.png", ESPN 1 | CL
+http://nxt.plus:8080/Belen/1234/43527
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | MX ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-mx-hd.png", ESPN 1 | MX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/166748
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1*" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1.png", ESPN 1*
+http://nxt.plus:8080/Belen/1234/187890
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | BR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-br-hd.png", ESPN 1 | BR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/56900
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 1 | UY ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-uy-hd.png", ESPN 1 | UY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/168572
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 | CL ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png", ESPN 2 | CL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58202
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 | EC" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec.png", ESPN 2 | EC
+http://nxt.plus:8080/Belen/1234/59099
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 | AR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-arg-hd.png", ESPN 2 | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/81343
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 | EC ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec-hd.png", ESPN 2 | EC ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58203
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 | SUR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-sur.png", ESPN 2 | SUR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/190374
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 | SUR" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-sur.png", ESPN 2 | SUR
+http://nxt.plus:8080/Belen/1234/767
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2 | US ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-usa-hd.png", ESPN 2 | US ᴴᴰ
+http://nxt.plus:8080/Belen/1234/169422
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 3 | AR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-ar-hd.png", ESPN 3 | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/81344
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 3 | BR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-br-hd.png", ESPN 3 | BR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/117637
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 3 | CENTRO ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-centro-hd.png", ESPN 3 | CENTRO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25211
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 3 | MX ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-mx-hd.png", ESPN 3 | MX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/29764
+#EXTINF:0 type="stream" channelId="355" name="ESPN 3" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3.png", ESPN 3
+http://nxt.plus:8080/Belen/1234/169440
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 3 | SUR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-sur-hd.png", ESPN 3 | SUR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/3267
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 4 | SUR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur-hd.png", ESPN 4 | SUR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/19189
+#EXTINF:0 type="stream" channelId="1432" name="ESPN 4" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur.png", ESPN 4
+http://nxt.plus:8080/Belen/1234/763
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 4 | SUR" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur.png", ESPN 4 | SUR
+http://nxt.plus:8080/Belen/1234/189167
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 4 | BR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-br-hd.png", ESPN 4 | BR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/160136
+#EXTINF:0 type="stream" channelId="-1" name="ESPN EXTRA | SUR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png", ESPN EXTRA | SUR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16915
+#EXTINF:0 type="stream" channelId="-1" name="ESPN PREMIUM | AR ᴴᴰ" group="ESPN / FOX SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-premium-ar-hd.png", ESPN PREMIUM | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/11476
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS 1 | PE ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-1-pe-hd.png", DSPORTS 1 | PE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/116424
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS 1 | AR ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-1-ar-hd.png", DSPORTS 1 | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/160612
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS 1 | CL ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-1-cl-hd.png", DSPORTS 1 | CL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/68828
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS MOTOR ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-motor-hd.png", DSPORTS MOTOR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/181455
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS+ | CL ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-plus-cl-hd.png", DSPORTS+ | CL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/68830
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS 2 | CL ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-2-cl-hd.png", DSPORTS 2 | CL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/68829
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS FIGHT ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-fight-hd.png", DSPORTS FIGHT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/160542
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS 1 | EC ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-1-ec-hd.png", DSPORTS 1 | EC ᴴᴰ
+http://nxt.plus:8080/Belen/1234/116425
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS 1 | CO ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-1-co-hd.png", DSPORTS 1 | CO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/160611
+#EXTINF:0 type="stream" channelId="-1" name="DSPORTS 1 | UY ᴴᴰ" group="DSPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dsports/dsports-1-uy-hd.png", DSPORTS 1 | UY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/166706
+#EXTINF:0 type="stream" channelId="-1" name="TyC SPORTS INT ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png", TyC SPORTS INT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60567
+#EXTINF:0 type="stream" channelId="4789" name="WIN SPORTS+" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png", WIN SPORTS+
+http://nxt.plus:8080/Belen/1234/46973
+#EXTINF:0 type="stream" channelId="-1" name="FUTV ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/futv-hd.png", FUTV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/69657
+#EXTINF:0 type="stream" channelId="-1" name="GOLPERU" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-peru.png", GOLPERU
+http://nxt.plus:8080/Belen/1234/9758
+#EXTINF:0 type="stream" channelId="-1" name="GOL TV | EC" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-tv.png", GOL TV | EC
+http://nxt.plus:8080/Belen/1234/53691
+#EXTINF:0 type="stream" channelId="-1" name="TyC SPORTS INT" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-internacional.png", TyC SPORTS INT
+http://nxt.plus:8080/Belen/1234/43576
+#EXTINF:0 type="stream" channelId="-1" name="#VAMOS ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/vamos.png", #VAMOS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/15318
+#EXTINF:0 type="stream" channelId="-1" name="CLARO SPORTS 1 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/claro-sports.png", CLARO SPORTS 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59084
+#EXTINF:0 type="stream" channelId="-1" name="CLARO SPORTS 2 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/claro-sports.png", CLARO SPORTS 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/103887
+#EXTINF:0 type="stream" channelId="-1" name="EUROSPORT 1 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/eurosports-1-hd.png", EUROSPORT 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59541
+#EXTINF:0 type="stream" channelId="-1" name="EUROSPORT 2 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/eurosports-2-hd.png", EUROSPORT 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59830
+#EXTINF:0 type="stream" channelId="-1" name="GOL PERU ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-peru-hd.png", GOL PERU ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25347
+#EXTINF:0 type="stream" channelId="-1" name="GOL TV  ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-tv-hd.png", GOL TV  ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60562
+#EXTINF:0 type="stream" channelId="-1" name="NBA TV ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/nba-tv-hd.png", NBA TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/4983
+#EXTINF:0 type="stream" channelId="-1" name="NFL NETWORK ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/nfl-network-hd.png", NFL NETWORK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/15030
+#EXTINF:0 type="stream" channelId="-1" name="SPORT TV 1 | PT ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-1-pt-hd.png", SPORT TV 1 | PT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/23424
+#EXTINF:0 type="stream" channelId="-1" name="SPORT TV 5 | PT ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-5-pt-hd.png", SPORT TV 5 | PT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/23432
+#EXTINF:0 type="stream" channelId="-1" name="SPORT TV+ | PT ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-plus-pt-hd.png", SPORT TV+ | PT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58191
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 1 | BR ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-1-br-hd.png", SPORTV 1 | BR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/56907
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 2 | BR ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png", SPORTV 2 | BR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/56908
+#EXTINF:0 type="stream" channelId="-1" name="SPORTV 3 | BR ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-3-br-hd.png", SPORTV 3 | BR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/80563
+#EXTINF:0 type="stream" channelId="-1" name="TD+ 2 | CR ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/td-plus-2-cr.png", TD+ 2 | CR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/69659
+#EXTINF:0 type="stream" channelId="-1" name="TELEDEPORTE | ES ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/teledeporte-es-hd.png", TELEDEPORTE | ES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/15320
+#EXTINF:0 type="stream" channelId="-1" name="TENNIS CHANNEL 2 | Eventos ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tennis-channel-2-hd-eventos.png", TENNIS CHANNEL 2 | Eventos ᴴᴰ
+http://nxt.plus:8080/Belen/1234/26923
+#EXTINF:0 type="stream" channelId="-1" name="TENNIS CHANNEL 1 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tennis-channel-hd.png", TENNIS CHANNEL 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25943
+#EXTINF:0 type="stream" channelId="-1" name="REAL MADRID TV ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/real-madrid-tv-hd.png", REAL MADRID TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/166703
+#EXTINF:0 type="stream" channelId="-1" name="ELEVEN SPORTS 1 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/eleven-sports-1-pt-hd.png", ELEVEN SPORTS 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/168836
+#EXTINF:0 type="stream" channelId="-1" name="ELEVEN SPORTS 2 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/eleven-sports-2-pt-hd.png", ELEVEN SPORTS 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/168837
+#EXTINF:0 type="stream" channelId="-1" name="ELEVEN SPORTS 3 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/eleven-sports-3-pt-hd.png", ELEVEN SPORTS 3 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/168838
+#EXTINF:0 type="stream" channelId="-1" name="ELEVEN SPORTS 4 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/eleven-sports-4-pt-hd.png", ELEVEN SPORTS 4 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/168839
+#EXTINF:0 type="stream" channelId="-1" name="ELEVEN SPORTS 5 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/eleven-sports-5-pt-hd.png", ELEVEN SPORTS 5 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/168840
+#EXTINF:0 type="stream" channelId="-1" name="ELEVEN SPORTS 6 ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/eleven-sports-6-pt-hd.png", ELEVEN SPORTS 6 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/168841
+#EXTINF:0 type="stream" channelId="-1" name="TyC SPORTS | AR ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tyc-sports-ar-hd.png", TyC SPORTS | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/169849
+#EXTINF:0 type="stream" channelId="-1" name="WIN SPORTS+ ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus-hd.png", WIN SPORTS+ ᴴᴰ
+http://nxt.plus:8080/Belen/1234/1164
+#EXTINF:0 type="stream" channelId="-1" name="ECDF | EC" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/ecdf-hd.png", ECDF | EC
+http://nxt.plus:8080/Belen/1234/187904
+#EXTINF:0 type="stream" channelId="-1" name="COMBATE ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/combate-hd.png", COMBATE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/51471
+#EXTINF:0 type="stream" channelId="-1" name="PREMIERE CLUBE ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/premiere-clube-hd.png", PREMIERE CLUBE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/51482
+#EXTINF:0 type="stream" channelId="-1" name="WIN SPORTS ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-hd.png", WIN SPORTS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/43579
+#EXTINF:0 type="stream" channelId="-1" name="M.DEPORTES PERÚ HD" group="DEPORTES" logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png", M.DEPORTES PERÚ HD
+http://nxt.plus:8080/Belen/1234/192577
+#EXTINF:0 type="stream" channelId="-1" name="M.DEPORTES PERÚ" group="DEPORTES" logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png", M.DEPORTES PERÚ
+http://nxt.plus:8080/Belen/1234/192578
+#EXTINF:0 type="stream" channelId="-1" name="ECDF | EC ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/ecdf-hd.png", ECDF | EC ᴴᴰ
+http://nxt.plus:8080/Belen/1234/192579
+#EXTINF:0 type="stream" channelId="-1" name="TUDN | MX ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tudn-mx-hd.png", TUDN | MX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/65691
+#EXTINF:0 type="stream" channelId="-1" name="UFC FIGHT PASS | US ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/ufc-fight-pass-hd.png", UFC FIGHT PASS | US ᴴᴰ
+http://nxt.plus:8080/Belen/1234/4965
+#EXTINF:0 type="stream" channelId="-1" name="AZTECA DEPORTES" group="DEPORTES", AZTECA DEPORTES
+http://nxt.plus:8080/Belen/1234/193967
+#EXTINF:0 type="stream" channelId="-1" name="GOL TV | EC ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-tv.png", GOL TV | EC ᴴᴰ
+http://nxt.plus:8080/Belen/1234/166913
+#EXTINF:0 type="stream" channelId="-1" name="SUPER TENNIS ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/super-tennis.png", SUPER TENNIS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/171767
+#EXTINF:0 type="stream" channelId="-1" name="SPORT TV 2 | PT ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-2-pt-hd.png", SPORT TV 2 | PT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/23426
+#EXTINF:0 type="stream" channelId="-1" name="TUDN | US ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tudn-usa-hd.png", TUDN | US ᴴᴰ
+http://nxt.plus:8080/Belen/1234/3283
+#EXTINF:0 type="stream" channelId="-1" name="SPORT TV 3 | PT ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-3-pt-hd.png", SPORT TV 3 | PT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/23428
+#EXTINF:0 type="stream" channelId="-1" name="SPORT TV 4 | PT ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-4-pt-hd.png", SPORT TV 4 | PT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/23431
+#EXTINF:0 type="stream" channelId="-1" name="MLB NETWORK ᴴᴰ" group="DEPORTES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/mlb-network-hd.png", MLB NETWORK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/4964
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 3 (CL)" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-3-cl.png", TNT SPORTS 3 (CL)
+http://nxt.plus:8080/Belen/1234/8
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 2 (CL)" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png", TNT SPORTS 2 (CL)
+http://nxt.plus:8080/Belen/1234/7
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS | AR ᴴᴰ" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-ar.png", TNT SPORTS | AR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25121
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS HD (CL)" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-fhd-cl.png", TNT SPORTS HD (CL)
+http://nxt.plus:8080/Belen/1234/184411
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 3* (CL)" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-3-cl.png", TNT SPORTS 3* (CL)
+http://nxt.plus:8080/Belen/1234/187979
+#EXTINF:0 type="stream" channelId="-1" name="| ESTADIO TNT (CL)" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-estadio-hd-cl.png", | ESTADIO TNT (CL)
+http://nxt.plus:8080/Belen/1234/169893
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 2* (CL)" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png", TNT SPORTS 2* (CL)
+http://nxt.plus:8080/Belen/1234/191452
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS HD** (CL)" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-hd-cl.png", TNT SPORTS HD** (CL)
+http://nxt.plus:8080/Belen/1234/191454
+#EXTINF:0 type="stream" channelId="-1" name="TNT SPORTS 2** (CL)" group="FUTBOL CHILENO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png", TNT SPORTS 2** (CL)
+http://nxt.plus:8080/Belen/1234/186360
+#EXTINF:0 type="stream" channelId="-1" name="DEPORTE TOTAL ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/deporte-total-hd.png", DEPORTE TOTAL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25145
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR LIGA DE CAMPEONES ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/VMyLwv0/Screenshot-3.png", MOVISTAR LIGA DE CAMPEONES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/160243
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DEPORTES 1 | ES ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/mm/mplus-deportes-es.png", MOVISTAR DEPORTES 1 | ES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/23243
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DEPORTES 2 | ES ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/mm/mplus-deportes-es.png", MOVISTAR DEPORTES 2 | ES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/27023
+#EXTINF:0 type="stream" channelId="-1" name="DAZN LA LIGA 2 ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png", DAZN LA LIGA 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/56867
+#EXTINF:0 type="stream" channelId="-1" name="DAZN LA LIGA 2 ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png", DAZN LA LIGA 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60280
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DEPORTES 2 | ES ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/mm/mplus-deportes-es.png", MOVISTAR DEPORTES 2 | ES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60437
+#EXTINF:0 type="stream" channelId="-1" name="DAZN F1" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/0cLQTnm/dazn-f1.png", DAZN F1
+http://nxt.plus:8080/Belen/1234/60439
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DEPORTES 1 | PE ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/movistar-pe-hd.png", MOVISTAR DEPORTES 1 | PE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/12261
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DEPORTES 1 | PE" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png", MOVISTAR DEPORTES 1 | PE
+http://nxt.plus:8080/Belen/1234/183275
+#EXTINF:0 type="stream" channelId="-1" name="DAZN LA LIGA 1 ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png", DAZN LA LIGA 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60279
+#EXTINF:0 type="stream" channelId="-1" name="DAZN LA LIGA 1 ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png", DAZN LA LIGA 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/56866
+#EXTINF:0 type="stream" channelId="-1" name="DAZN 2 ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/vPnVfK6/dazn.png", DAZN 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25277
+#EXTINF:0 type="stream" channelId="-1" name="LA LIGA TV 1 | FHD" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/JyH4Qxv/La-Liga-V-2015.png", LA LIGA TV 1 | FHD
+http://nxt.plus:8080/Belen/1234/65683
+#EXTINF:0 type="stream" channelId="-1" name="SKY SPORTS BUNDESLIGA ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/ZXhCxhK/Screenshot-1.png", SKY SPORTS BUNDESLIGA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/56957
+#EXTINF:0 type="stream" channelId="-1" name="SKY SPORTS F1 | UK ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png", SKY SPORTS F1 | UK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/53097
+#EXTINF:0 type="stream" channelId="-1" name="SKY SPORTS F1 | UK ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png", SKY SPORTS F1 | UK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59243
+#EXTINF:0 type="stream" channelId="-1" name="SKY SPORTS EPL | UK ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/jrRqmB3/Screenshot-2.png", SKY SPORTS EPL | UK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59250
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DEPORTES 1 | ES ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://www.lyngsat.com/logo/tv/mm/mplus-deportes-es.png", MOVISTAR DEPORTES 1 | ES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/23245
+#EXTINF:0 type="stream" channelId="-1" name="LA LIGA TV 2 ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/JyH4Qxv/La-Liga-V-2015.png", LA LIGA TV 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60698
+#EXTINF:0 type="stream" channelId="-1" name="DAZN F1 ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/0cLQTnm/dazn-f1.png", DAZN F1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25278
+#EXTINF:0 type="stream" channelId="-1" name="LA LIGA SMARTBANK ᴴᴰ" group="DAZN / MOVISTAR / SKY" logo="https://i.ibb.co/TKzBjh5/Screenshot-3.png", LA LIGA SMARTBANK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60283
+#EXTINF:0 type="stream" channelId="-1" name="HN | TIGO SPORTS ᴴᴰ" group="TIGO SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/tigo-sports/hn-tigo-sports-hd.png", HN | TIGO SPORTS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/61704
+#EXTINF:0 type="stream" channelId="-1" name="SV | TIGO SPORTS ᴴᴰ" group="TIGO SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/tigo-sports/sv-tigo-sports-hd.png", SV | TIGO SPORTS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/169989
+#EXTINF:0 type="stream" channelId="-1" name="CR | TIGO SPORTS ᴴᴰ" group="TIGO SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/tigo-sports/cr-tigo-sports-hd.png", CR | TIGO SPORTS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/189170
+#EXTINF:0 type="stream" channelId="-1" name="PY | TIGO SPORTS Op1" group="TIGO SPORTS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/tigo-sports/py-tigo-sports-hd.png", PY | TIGO SPORTS Op1
+http://nxt.plus:8080/Belen/1234/190052
+#EXTINF:0 type="stream" channelId="-1" name="VTV PLUS ᴴᴰ" group="URUGUAY" logo="https://www.lyngsat.com/logo/tv/vv/vtv-plus-uy.png", VTV PLUS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9797
+#EXTINF:0 type="stream" channelId="-1" name="CANAL 10 | UY" group="URUGUAY" logo="https://www.lyngsat.com/logo/tv/cc/canal10_uy.png", CANAL 10 | UY
+http://nxt.plus:8080/Belen/1234/171119
+#EXTINF:0 type="stream" channelId="-1" name="CANAL 10 | UY ᴴᴰ" group="URUGUAY" logo="https://www.lyngsat.com/logo/tv/cc/canal10_uy.png", CANAL 10 | UY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/115321
+#EXTINF:0 type="stream" channelId="2819" name="MEGA" group="CHILE" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/chile/mega.png", MEGA
+http://nxt.plus:8080/Belen/1234/169456
+#EXTINF:0 type="stream" channelId="-1" name="MEGA | CL ᴴᴰ" group="CHILE" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/chile/mega-hd.png", MEGA | CL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/116271
+#EXTINF:0 type="stream" channelId="-1" name="CHV HD*" group="CHILE" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/chile/chv-hd.png", CHV HD*
+http://nxt.plus:8080/Belen/1234/193257
+#EXTINF:0 type="stream" channelId="-1" name="C9N" group="PARAGUAY" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/paraguay/c9n-hd.png", C9N
+http://nxt.plus:8080/Belen/1234/26026
+#EXTINF:0 type="stream" channelId="-1" name="ABC PY ᴴᴰ" group="PARAGUAY" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/paraguay/abc-py-hd.png", ABC PY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/46801
+#EXTINF:0 type="stream" channelId="-1" name="LA TELE ᴴᴰ" group="PARAGUAY" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/paraguay/la-tele-hd.png", LA TELE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/52104
+#EXTINF:0 type="stream" channelId="-1" name="PARAVISION ᴴᴰ" group="PARAGUAY" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/paraguay/paravision-hd.png", PARAVISION ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59143
+#EXTINF:0 type="stream" channelId="-1" name="MI TV ᴴᴰ" group="PARAGUAY" logo="https://www.lyngsat.com/logo/tv/pp/paraguay-tv-py.png", MI TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/169841
+#EXTINF:0 type="stream" channelId="-1" name="TELEFUTURO ᴴᴰ" group="PARAGUAY" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/paraguay/telefuturo-hd.png", TELEFUTURO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/65701
+#EXTINF:0 type="stream" channelId="-1" name="NAC | AZTECA GUATE" group="GUATEMALA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/guatemala/gt-nac-azteca-guate.png", NAC | AZTECA GUATE
+http://nxt.plus:8080/Belen/1234/27853
+#EXTINF:0 type="stream" channelId="-1" name="NAC | GUATEVISION" group="GUATEMALA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/guatemala/gt-nac-guatevision.png", NAC | GUATEVISION
+http://nxt.plus:8080/Belen/1234/49861
+#EXTINF:0 type="stream" channelId="-1" name="AMERICA TV ᴴᴰ" group="ARGENTINA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/america-tv-hd.png", AMERICA TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/12262
+#EXTINF:0 type="stream" channelId="-1" name="CANAL 26 ᴴᴰ" group="ARGENTINA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/canal-26.png", CANAL 26 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/114557
+#EXTINF:0 type="stream" channelId="-1" name="EL NUEVE ᴴᴰ" group="ARGENTINA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/el-nueve.png", EL NUEVE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/1632
+#EXTINF:0 type="stream" channelId="-1" name="TELEFE ᴴᴰ" group="ARGENTINA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/telefe-hd.png", TELEFE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/1634
+#EXTINF:0 type="stream" channelId="-1" name="TELEFE INT" group="ARGENTINA", TELEFE INT
+http://nxt.plus:8080/Belen/1234/187995
+#EXTINF:0 type="stream" channelId="-1" name="EL TRECE INT" group="ARGENTINA", EL TRECE INT
+http://nxt.plus:8080/Belen/1234/187903
+#EXTINF:0 type="stream" channelId="-1" name="TV PUBLICA ᴴᴰ" group="ARGENTINA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/tv-publica-hd.png", TV PUBLICA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/171115
+#EXTINF:0 type="stream" channelId="-1" name="C5N ᴴᴰ" group="ARGENTINA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/c5n.png", C5N ᴴᴰ
+http://nxt.plus:8080/Belen/1234/81338
+#EXTINF:0 type="stream" channelId="-1" name="CRONICA TV" group="ARGENTINA" logo="https://i.ibb.co/85H9gLP/Screenshot-5.png", CRONICA TV
+http://nxt.plus:8080/Belen/1234/171109
+#EXTINF:0 type="stream" channelId="-1" name="A24 ᴴᴰ" group="ARGENTINA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/a24-hd.png", A24 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/15636
+#EXTINF:0 type="stream" channelId="-1" name="EL TRECE ᴴᴰ" group="ARGENTINA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/argentina/el-trece-hd.png", EL TRECE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13226
+#EXTINF:0 type="stream" channelId="-1" name="CARACOL TV" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/caracol-tv.png", CARACOL TV
+http://nxt.plus:8080/Belen/1234/43486
+#EXTINF:0 type="stream" channelId="1409" name="CITY TV" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/city-tv.png", CITY TV
+http://nxt.plus:8080/Belen/1234/43516
+#EXTINF:0 type="stream" channelId="3783" name="RCN" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/rcn.png", RCN
+http://nxt.plus:8080/Belen/1234/59079
+#EXTINF:0 type="stream" channelId="-1" name="CARACOL INT ᴴᴰ" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/caracol-int-hd.png", CARACOL INT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/62864
+#EXTINF:0 type="stream" channelId="-1" name="NTN 24 ᴴᴰ" group="COLOMBIA" logo="https://www.lyngsat.com/logo/tv/nn/ntn-24-co.png", NTN 24 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59139
+#EXTINF:0 type="stream" channelId="4775" name="CANAL 1" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/canal-1-hd.png", CANAL 1
+http://nxt.plus:8080/Belen/1234/187865
+#EXTINF:0 type="stream" channelId="2488" name="SEÑAL COLOMBIA" group="COLOMBIA", SEÑAL COLOMBIA
+http://nxt.plus:8080/Belen/1234/187964
+#EXTINF:0 type="stream" channelId="3783" name="RCN NUESTRA TELE" group="COLOMBIA", RCN NUESTRA TELE
+http://nxt.plus:8080/Belen/1234/187950
+#EXTINF:0 type="stream" channelId="-1" name="RCN ᴴᴰ" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/rcn-hd.png", RCN ᴴᴰ
+http://nxt.plus:8080/Belen/1234/43555
+#EXTINF:0 type="stream" channelId="-1" name="CANAL UNO | CO ᴴᴰ" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/canal-1-hd.png", CANAL UNO | CO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/118110
+#EXTINF:0 type="stream" channelId="-1" name="CARACOL TV ᴴᴰ" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/caracol-tv-hd.png", CARACOL TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/43506
+#EXTINF:0 type="stream" channelId="-1" name="EL TRECE | CO" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/paraguay/trece.png", EL TRECE | CO
+http://nxt.plus:8080/Belen/1234/43575
+#EXTINF:0 type="stream" channelId="-1" name="SEÑAL COLOMBIA ᴴᴰ" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/senal-colombia.png", SEÑAL COLOMBIA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/18480
+#EXTINF:0 type="stream" channelId="-1" name="CARACOL HD*" group="COLOMBIA" logo="https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png", CARACOL HD*
+http://nxt.plus:8080/Belen/1234/192580
+#EXTINF:0 type="stream" channelId="-1" name="RCN HD*" group="COLOMBIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/colombia/rcn-hd.png", RCN HD*
+http://nxt.plus:8080/Belen/1234/192583
+#EXTINF:0 type="stream" channelId="4770" name="CABLENOTICIAS" group="COLOMBIA" logo="https://www.lyngsat.com/logo/tv/cc/cablenoticias-co.png", CABLENOTICIAS
+http://nxt.plus:8080/Belen/1234/3431
+#EXTINF:0 type="stream" channelId="4803" name="TELEVEN" group="VENEZUELA" logo="https://www.lyngsat.com/logo/tv/tt/televen_ve.png", TELEVEN
+http://nxt.plus:8080/Belen/1234/161144
+#EXTINF:0 type="stream" channelId="-1" name="VENEVISION PLUS" group="VENEZUELA" logo="https://www.lyngsat.com/logo/tv/vv/venevision-plus-venezuela-ve.png", VENEVISION PLUS
+http://nxt.plus:8080/Belen/1234/3436
+#EXTINF:0 type="stream" channelId="-1" name="EVTV ᴴᴰ" group="VENEZUELA" logo="https://i.ibb.co/gdxnTzp/Screenshot-3.png", EVTV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24826
+#EXTINF:0 type="stream" channelId="4791" name="TV FAMILIA" group="VENEZUELA" logo="https://www.lyngsat.com/logo/tv/tt/tv-familia-ve.png", TV FAMILIA
+http://nxt.plus:8080/Belen/1234/43485
+#EXTINF:0 type="stream" channelId="4840" name="TVES" group="VENEZUELA" logo="https://www.lyngsat.com/logo/tv/tt/tves-ve.png", TVES
+http://nxt.plus:8080/Belen/1234/59171
+#EXTINF:0 type="stream" channelId="-1" name="TLT" group="VENEZUELA" logo="https://www.lyngsat.com/logo/tv/tt/tlt-ve.png", TLT
+http://nxt.plus:8080/Belen/1234/116421
+#EXTINF:0 type="stream" channelId="-1" name="CONCIENCIA TV" group="VENEZUELA" logo="https://www.lyngsat.com/logo/tv/cc/conciencia-tv-ve.png", CONCIENCIA TV
+http://nxt.plus:8080/Belen/1234/169593
+#EXTINF:0 type="stream" channelId="-1" name="GLOBOVISION" group="VENEZUELA" logo="https://i.ibb.co/xq5JJ9z/Globovision-2013-v2.png", GLOBOVISION
+http://nxt.plus:8080/Belen/1234/60106
+#EXTINF:0 type="stream" channelId="-1" name="PANAVISION ᴴᴰ" group="VENEZUELA" logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", PANAVISION ᴴᴰ
+http://nxt.plus:8080/Belen/1234/34200
+#EXTINF:0 type="stream" channelId="-1" name="VENEVISIÓN" group="VENEZUELA" logo="https://www.lyngsat.com/logo/tv/vv/venevision-ve.png", VENEVISIÓN
+http://nxt.plus:8080/Belen/1234/188009
+#EXTINF:0 type="stream" channelId="-1" name="VENEVISION HD" group="VENEZUELA", VENEVISION HD
+http://nxt.plus:8080/Belen/1234/193968
+#EXTINF:0 type="stream" channelId="-1" name="LAS ESTRELLAS ᴴᴰ" group="MÉXICO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/las-estrellas-hd.png", LAS ESTRELLAS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59587
+#EXTINF:0 type="stream" channelId="-1" name="UNICABLE ᴴᴰ" group="MÉXICO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/unicable-hd.png", UNICABLE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59597
+#EXTINF:0 type="stream" channelId="-1" name="IMAGEN TV ᴴᴰ" group="MÉXICO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/imagen-tv-hd.png", IMAGEN TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/159491
+#EXTINF:0 type="stream" channelId="-1" name="AZ MUNDO ᴴᴰ" group="MÉXICO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/az-mundo-hd.png", AZ MUNDO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/27651
+#EXTINF:0 type="stream" channelId="1954" name="LAS ESTRELLAS" group="MÉXICO" logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png", LAS ESTRELLAS
+http://nxt.plus:8080/Belen/1234/187938
+#EXTINF:0 type="stream" channelId="-1" name="CANAL 5 | MX ᴴᴰ" group="MÉXICO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/canal-5-hd.png", CANAL 5 | MX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59603
+#EXTINF:0 type="stream" channelId="-1" name="AZTECA 7 ᴴᴰ" group="MÉXICO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/azteca-7-hd.png", AZTECA 7 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/160500
+#EXTINF:0 type="stream" channelId="-1" name="AZTECA UNO ᴴᴰ" group="MÉXICO" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/azteca-uno-hd.png", AZTECA UNO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/160516
+#EXTINF:0 type="stream" channelId="-1" name="BOLIVISION ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/bolivision-hd.png", BOLIVISION ᴴᴰ
+http://nxt.plus:8080/Belen/1234/1636
+#EXTINF:0 type="stream" channelId="-1" name="RED UNO | CBBA ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/red-uno-cbba.png", RED UNO | CBBA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/72659
+#EXTINF:0 type="stream" channelId="-1" name="RTP ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/rtp-hd.png", RTP ᴴᴰ
+http://nxt.plus:8080/Belen/1234/11864
+#EXTINF:0 type="stream" channelId="-1" name="PODER DE DIOS" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/poder-de-dios.png", PODER DE DIOS
+http://nxt.plus:8080/Belen/1234/161688
+#EXTINF:0 type="stream" channelId="-1" name="RED 24 | El Alto" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/red-24-el-alto.png", RED 24 | El Alto
+http://nxt.plus:8080/Belen/1234/161689
+#EXTINF:0 type="stream" channelId="-1" name="UNITEL | SCZ ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/unitel-scz-hd.png", UNITEL | SCZ ᴴᴰ
+http://nxt.plus:8080/Belen/1234/11863
+#EXTINF:0 type="stream" channelId="-1" name="ATB ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/atb-lp-hd.png", ATB ᴴᴰ
+http://nxt.plus:8080/Belen/1234/11867
+#EXTINF:0 type="stream" channelId="-1" name="MEGA TV | YCB ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/mega-tv.png", MEGA TV | YCB ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25146
+#EXTINF:0 type="stream" channelId="-1" name="SEO TV ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/seo-tv-1--hd.png", SEO TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25150
+#EXTINF:0 type="stream" channelId="-1" name="SEO TV KIDS ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/seo-tv-2-kids-hd.png", SEO TV KIDS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25151
+#EXTINF:0 type="stream" channelId="-1" name="SEO TV NOVELAS ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/seo-tv-3-novelas-hd.png", SEO TV NOVELAS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25152
+#EXTINF:0 type="stream" channelId="-1" name="NEO TV | PTS ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/neo-tv-hd.png", NEO TV | PTS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/30481
+#EXTINF:0 type="stream" channelId="-1" name="CADENA A ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/cadena-a-hd.png", CADENA A ᴴᴰ
+http://nxt.plus:8080/Belen/1234/36195
+#EXTINF:0 type="stream" channelId="-1" name="SEO TV  PELICULAS" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/seo-tv-peliculas.png", SEO TV  PELICULAS
+http://nxt.plus:8080/Belen/1234/57497
+#EXTINF:0 type="stream" channelId="-1" name="TVU | LP" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/tvu-la-paz.png", TVU | LP
+http://nxt.plus:8080/Belen/1234/59542
+#EXTINF:0 type="stream" channelId="-1" name="F-10 ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/f10-hd.png", F-10 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/161146
+#EXTINF:0 type="stream" channelId="-1" name="RED UNO | LP ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/red-uno-lp-hd.png", RED UNO | LP ᴴᴰ
+http://nxt.plus:8080/Belen/1234/172752
+#EXTINF:0 type="stream" channelId="-1" name="BOLIVIA TV 7.1 ᴴᴰ" group="BOLIVIA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/bolivia/bolivia-tv-hd.png", BOLIVIA TV 7.1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/161990
+#EXTINF:0 type="stream" channelId="-1" name="CINERAMA TV" group="BOLIVIA" logo="https://i.ibb.co/4Wx6n5K/cinerama-tv-bo.png", CINERAMA TV
+http://nxt.plus:8080/Belen/1234/189591
+#EXTINF:0 type="stream" channelId="-1" name="GOGOPLAY" group="BOLIVIA" logo="https://i.ibb.co/KVs3FW3/Screenshot-5.png", GOGOPLAY
+http://nxt.plus:8080/Belen/1234/189593
+#EXTINF:0 type="stream" channelId="-1" name="BOLIVIA TV 7.2 ᴴᴰ" group="BOLIVIA" logo="https://www.lyngsat.com/logo/tv/bb/bolivia-tv-bo.png", BOLIVIA TV 7.2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/191455
+#EXTINF:0 type="stream" channelId="4747" name="GAMAVISION" group="ECUADOR" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/ecuador/gamavision.png", GAMAVISION
+http://nxt.plus:8080/Belen/1234/24540
+#EXTINF:0 type="stream" channelId="4743" name="ECUAVISA" group="ECUADOR", ECUAVISA
+http://nxt.plus:8080/Belen/1234/187901
+#EXTINF:0 type="stream" channelId="4746" name="ECUADOR TV" group="ECUADOR" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/ecuador/ecuador-tv-hd.png", ECUADOR TV
+http://nxt.plus:8080/Belen/1234/1173
+#EXTINF:0 type="stream" channelId="-1" name="TELEAMAZONAS" group="ECUADOR" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/ecuador/teleamazonas-hd.png", TELEAMAZONAS
+http://nxt.plus:8080/Belen/1234/9745
+#EXTINF:0 type="stream" channelId="-1" name="OROMAR ᴴᴰ" group="ECUADOR" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/ecuador/oromar-hd.png", OROMAR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/15376
+#EXTINF:0 type="stream" channelId="-1" name="ZARACAY TV" group="ECUADOR" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/ecuador/zaracay-tv.png", ZARACAY TV
+http://nxt.plus:8080/Belen/1234/42417
+#EXTINF:0 type="stream" channelId="4748" name="TC TELEVISIÓN" group="ECUADOR" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/ecuador/tc-television-hd.png", TC TELEVISIÓN
+http://nxt.plus:8080/Belen/1234/59158
+#EXTINF:0 type="stream" channelId="-1" name="ECUADOR TV ᴴᴰ" group="ECUADOR" logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png", ECUADOR TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/171764
+#EXTINF:0 type="stream" channelId="-1" name="INTI ᴴᴰ" group="ECUADOR" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/ecuador/inti-hd.png", INTI ᴴᴰ
+http://nxt.plus:8080/Belen/1234/171769
+#EXTINF:0 type="stream" channelId="4744" name="RTS" group="ECUADOR", RTS
+http://nxt.plus:8080/Belen/1234/187960
+#EXTINF:0 type="stream" channelId="-1" name="PA | TELEMETRO" group="PANAMÁ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/panama/pa-telemetro.png", PA | TELEMETRO
+http://nxt.plus:8080/Belen/1234/65697
+#EXTINF:0 type="stream" channelId="-1" name="DREYKO TV" group="PANAMÁ", DREYKO TV
+http://nxt.plus:8080/Belen/1234/171768
+#EXTINF:0 type="stream" channelId="-1" name="PA | SER TV ᴴᴰ" group="PANAMÁ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/panama/pa-ser-tv.png", PA | SER TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/61772
+#EXTINF:0 type="stream" channelId="-1" name="PA | TVN ᴴᴰ" group="PANAMÁ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/panama/pa-tvn.png", PA | TVN ᴴᴰ
+http://nxt.plus:8080/Belen/1234/65699
+#EXTINF:0 type="stream" channelId="-1" name="PA | NEXTV" group="PANAMÁ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/panama/pa-nextv.png", PA | NEXTV
+http://nxt.plus:8080/Belen/1234/51529
+#EXTINF:0 type="stream" channelId="-1" name="#0 ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/0.png", #0 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60285
+#EXTINF:0 type="stream" channelId="-1" name="LA 1 ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/la-1-hd.png", LA 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13652
+#EXTINF:0 type="stream" channelId="-1" name="LA 2 ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/la-2-hd.png", LA 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13653
+#EXTINF:0 type="stream" channelId="-1" name="ANTENA 3 INT" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/antena-3-int.png", ANTENA 3 INT
+http://nxt.plus:8080/Belen/1234/14476
+#EXTINF:0 type="stream" channelId="-1" name="CUATRO ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/cuatro-hd.png", CUATRO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/17318
+#EXTINF:0 type="stream" channelId="-1" name="ANTENA 3 ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/antena-3-hd.png", ANTENA 3 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/23090
+#EXTINF:0 type="stream" channelId="-1" name="LA SEXTA ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/la-sexta-hd.png", LA SEXTA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/52886
+#EXTINF:0 type="stream" channelId="-1" name="FDF ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/fdf-hd.png", FDF ᴴᴰ
+http://nxt.plus:8080/Belen/1234/53696
+#EXTINF:0 type="stream" channelId="-1" name="MEGA | ES ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/mega-hd-es.png", MEGA | ES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/116386
+#EXTINF:0 type="stream" channelId="326" name="EUROPA EUROPA" group="ESPAÑA" logo="https://www.lyngsat.com/logo/tv/ee/europa-europa-uk.png", EUROPA EUROPA
+http://nxt.plus:8080/Belen/1234/183278
+#EXTINF:0 type="stream" channelId="-1" name="TVE INT" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/tve-internacional.png", TVE INT
+http://nxt.plus:8080/Belen/1234/169462
+#EXTINF:0 type="stream" channelId="-1" name="TELECINCO ᴴᴰ" group="ESPAÑA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/telecinco-hd.png", TELECINCO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13649
+#EXTINF:0 type="stream" channelId="-1" name="GLOBO RJ" group="BRASIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/globo-rj-sd.png", GLOBO RJ
+http://nxt.plus:8080/Belen/1234/51461
+#EXTINF:0 type="stream" channelId="1967" name="TELEMUNDO" group="US LATINOS" logo="https://i.ibb.co/wJgQjJ3/Telemundo-2018.png", TELEMUNDO
+http://nxt.plus:8080/Belen/1234/187997
+#EXTINF:0 type="stream" channelId="-1" name="UNIVISION LOS ANGELES ᴴᴰ" group="US LATINOS" logo="https://i.ibb.co/Km5cMWb/Univision-2019.png", UNIVISION LOS ANGELES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/189350
+#EXTINF:0 type="stream" channelId="-1" name="GALAVISION MIAMI ᴴᴰ" group="US LATINOS" logo="https://i.ibb.co/Pz2jskG/Galavision-New.png", GALAVISION MIAMI ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25704
+#EXTINF:0 type="stream" channelId="-1" name="TELEMUNDO MIAMI ᴴᴰ" group="US LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png", TELEMUNDO MIAMI ᴴᴰ
+http://nxt.plus:8080/Belen/1234/15639
+#EXTINF:0 type="stream" channelId="-1" name="UNIMAS LOS ANGELES ᴴᴰ" group="US LATINOS" logo="https://i.ibb.co/Bn8t4KY/UNIMAS.png", UNIMAS LOS ANGELES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24524
+#EXTINF:0 type="stream" channelId="-1" name="UNIMAS MIAMI ᴴᴰ" group="US LATINOS" logo="https://i.ibb.co/Bn8t4KY/UNIMAS.png", UNIMAS MIAMI ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25703
+#EXTINF:0 type="stream" channelId="-1" name="UNIVISION NEW YORK ᴴᴰ" group="US LATINOS" logo="https://i.ibb.co/Km5cMWb/Univision-2019.png", UNIVISION NEW YORK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24526
+#EXTINF:0 type="stream" channelId="-1" name="UNIVISION ᴴᴰ" group="US LATINOS" logo="https://i.ibb.co/Km5cMWb/Univision-2019.png", UNIVISION ᴴᴰ
+http://nxt.plus:8080/Belen/1234/167881
+#EXTINF:0 type="stream" channelId="-1" name="MEGA TV MIAMI ᴴᴰ" group="US LATINOS" logo="https://i.ibb.co/HBSGvKm/Mega-tv-logo.png", MEGA TV MIAMI ᴴᴰ
+http://nxt.plus:8080/Belen/1234/14046
+#EXTINF:0 type="stream" channelId="-1" name="ESTRELLA TV NEWS US" group="US LATINOS" logo="https://i.ibb.co/VH6qm2r/Screenshot-4.png", ESTRELLA TV NEWS US
+http://nxt.plus:8080/Belen/1234/171762
+#EXTINF:0 type="stream" channelId="-1" name="UNIVISION MIAMI ᴴᴰ" group="US LATINOS" logo="https://i.ibb.co/Km5cMWb/Univision-2019.png", UNIVISION MIAMI ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24529
+#EXTINF:0 type="stream" channelId="-1" name="ESTRELLA TV | US" group="US LOCALS" logo="https://www.lyngsat.com/logo/tv/ee/estrella-tv-us.png", ESTRELLA TV | US
+http://nxt.plus:8080/Belen/1234/171761
+#EXTINF:0 type="stream" channelId="-1" name="NICK JR ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/nick-jr.png", NICK JR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/3429
+#EXTINF:0 type="stream" channelId="-1" name="DISNEY CHANNEL ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/disney-channel-hd.png", DISNEY CHANNEL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16908
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY KIDS ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/discovery-kids-hd.png", DISCOVERY KIDS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/757
+#EXTINF:0 type="stream" channelId="-1" name="DISNEY JR ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/disney-jr-hd.png", DISNEY JR ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16909
+#EXTINF:0 type="stream" channelId="40" name="CARTOON NETWORK" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/cartoon-network.png", CARTOON NETWORK
+http://nxt.plus:8080/Belen/1234/43513
+#EXTINF:0 type="stream" channelId="-1" name="NICK ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/nick-hd.png", NICK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58204
+#EXTINF:0 type="stream" channelId="-1" name="TEEN NICK ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/teen-nick-hd.png", TEEN NICK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/161681
+#EXTINF:0 type="stream" channelId="2505" name="DISCOVERY KIDS" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/discovery-kidS.png", DISCOVERY KIDS
+http://nxt.plus:8080/Belen/1234/43520
+#EXTINF:0 type="stream" channelId="1305" name="CARTOONITO" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/cartoonito.png", CARTOONITO
+http://nxt.plus:8080/Belen/1234/191171
+#EXTINF:0 type="stream" channelId="41" name="NICKELODEON" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/nickelodeon.png", NICKELODEON
+http://nxt.plus:8080/Belen/1234/13121
+#EXTINF:0 type="stream" channelId="-1" name="CARTOON NETWORK ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/cartoon-network-hd.png", CARTOON NETWORK ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16905
+#EXTINF:0 type="stream" channelId="-1" name="NTV ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/ntv-hd.png", NTV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/118113
+#EXTINF:0 type="stream" channelId="2709" name="TEEN NICK" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/teen-nick.png", TEEN NICK
+http://nxt.plus:8080/Belen/1234/187989
+#EXTINF:0 type="stream" channelId="19" name="DISNEY CHANNEL" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/disney-channel.png", DISNEY CHANNEL
+http://nxt.plus:8080/Belen/1234/187886
+#EXTINF:0 type="stream" channelId="2639" name="TOONCAST" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/tooncast.png", TOONCAST
+http://nxt.plus:8080/Belen/1234/9787
+#EXTINF:0 type="stream" channelId="473" name="BABY TV" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/baby-tv.png", BABY TV
+http://nxt.plus:8080/Belen/1234/3426
+#EXTINF:0 type="stream" channelId="-1" name="SEMILLITAS TV" group="INFANTIL" logo="https://www.lyngsat.com/logo/tv/ss/semillitas-tv-us.png", SEMILLITAS TV
+http://nxt.plus:8080/Belen/1234/171125
+#EXTINF:0 type="stream" channelId="-1" name="PAKA PAKA ᴴᴰ" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/paka-paka-hd.png", PAKA PAKA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/17825
+#EXTINF:0 type="stream" channelId="2410" name="BABY FIRST" group="INFANTIL" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/baby-first.png", BABY FIRST
+http://nxt.plus:8080/Belen/1234/43504
+#EXTINF:0 type="stream" channelId="-1" name="E! ENTERTAIMENT ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/e-entertainment-hd.png", E! ENTERTAIMENT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/15302
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY H&H ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/discovery-home-health-hd.png", DISCOVERY H&H ᴴᴰ
+http://nxt.plus:8080/Belen/1234/57255
+#EXTINF:0 type="stream" channelId="-1" name="TELEMUNDO INT ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/telemundo-int-hd.png", TELEMUNDO INT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24528
+#EXTINF:0 type="stream" channelId="-1" name="TELEMUNDO INT" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/telemundo-hd.png", TELEMUNDO INT
+http://nxt.plus:8080/Belen/1234/43573
+#EXTINF:0 type="stream" channelId="67" name="TLC" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/tlc.png", TLC
+http://nxt.plus:8080/Belen/1234/43567
+#EXTINF:0 type="stream" channelId="-1" name="SUN CHANNEL ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/sun-channel.png", SUN CHANNEL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58205
+#EXTINF:0 type="stream" channelId="-1" name="LAS ESTRELLAS INT ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/las-estrellas-int-hd.png", LAS ESTRELLAS INT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/60564
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY H&H" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/discovery-home-health.png", DISCOVERY H&H
+http://nxt.plus:8080/Belen/1234/169438
+#EXTINF:0 type="stream" channelId="-1" name="AZ CLIC ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/az-clic-hd.png", AZ CLIC ᴴᴰ
+http://nxt.plus:8080/Belen/1234/14400
+#EXTINF:0 type="stream" channelId="-1" name="CGTN EN ESPAÑOL" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/cgtn-en-espanol.png", CGTN EN ESPAÑOL
+http://nxt.plus:8080/Belen/1234/18006
+#EXTINF:0 type="stream" channelId="-1" name="DECASA | ES ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/decasa-es.png", DECASA | ES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/52882
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY FAMILIA ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/discovery-familia-hd.png", DISCOVERY FAMILIA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/29723
+#EXTINF:0 type="stream" channelId="-1" name="EL GOURMET ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/el-gourmet-hd.png", EL GOURMET ᴴᴰ
+http://nxt.plus:8080/Belen/1234/3425
+#EXTINF:0 type="stream" channelId="-1" name="HGTV ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/hgtv.png", HGTV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59124
+#EXTINF:0 type="stream" channelId="-1" name="RAI INT" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/rai-internacional.png", RAI INT
+http://nxt.plus:8080/Belen/1234/14558
+#EXTINF:0 type="stream" channelId="-1" name="STAR TVE ᴴᴰ" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/star-tve.png", STAR TVE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13228
+#EXTINF:0 type="stream" channelId="-1" name="DW ESPAÑOL" group="VARIEDADES" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/dw-espanol.png", DW ESPAÑOL
+http://nxt.plus:8080/Belen/1234/160972
+#EXTINF:0 type="stream" channelId="-1" name="RETRO PLUS 2 ᴴᴰ" group="MÚSICA" logo="https://www.lyngsat.com/logo/tv/rr/retro-tv-us.png", RETRO PLUS 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/167074
+#EXTINF:0 type="stream" channelId="-1" name="RETRO PLUS 3 ᴴᴰ" group="MÚSICA" logo="https://www.lyngsat.com/logo/tv/rr/retro-tv-us.png", RETRO PLUS 3 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/167075
+#EXTINF:0 type="stream" channelId="-1" name="SV | CANAL 21" group="CENTROAMÉRICA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/centroamerica-caribe/sv-canal-21.png", SV | CANAL 21
+http://nxt.plus:8080/Belen/1234/35050
+#EXTINF:0 type="stream" channelId="-1" name="SV | CANAL  4" group="CENTROAMÉRICA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/centroamerica-caribe/sv-canal-4.png", SV | CANAL  4
+http://nxt.plus:8080/Belen/1234/65708
+#EXTINF:0 type="stream" channelId="-1" name="RD | TELEANTILLAS" group="CENTROAMÉRICA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/centroamerica-caribe/rd-tele-antillas.png", RD | TELEANTILLAS
+http://nxt.plus:8080/Belen/1234/160232
+#EXTINF:0 type="stream" channelId="-1" name="PR | UNIVISION" group="CENTROAMÉRICA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/centroamerica-caribe-2/pr-univision.png", PR | UNIVISION
+http://nxt.plus:8080/Belen/1234/191175
+#EXTINF:0 type="stream" channelId="-1" name="CR | TELETICA ᴴᴰ" group="CENTROAMÉRICA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/centroamerica-caribe/cr-teletica.png", CR | TELETICA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/46875
+#EXTINF:0 type="stream" channelId="-1" name="WARNER TV ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/warner-channel-hd.png", WARNER TV ᴴᴰ
+http://nxt.plus:8080/Belen/1234/1024
+#EXTINF:0 type="stream" channelId="-1" name="PARAMOUNT CHANNEL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/paramount-channel-hd.png", PARAMOUNT CHANNEL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/3268
+#EXTINF:0 type="stream" channelId="-1" name="COMEDY CENTRAL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/comedy-central-hd.png", COMEDY CENTRAL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9767
+#EXTINF:0 type="stream" channelId="-1" name="CINEMAX ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinemax-hd.png", CINEMAX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16903
+#EXTINF:0 type="stream" channelId="-1" name="SONY CHANNEL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-hd.png", SONY CHANNEL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16921
+#EXTINF:0 type="stream" channelId="-1" name="AXN ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/axn-hd.png", AXN ᴴᴰ
+http://nxt.plus:8080/Belen/1234/1021
+#EXTINF:0 type="stream" channelId="-1" name="HBO | Dual Audio ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-hd.png", HBO | Dual Audio ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16897
+#EXTINF:0 type="stream" channelId="-1" name="FX ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/fx-hd.png", FX ᴴᴰ
+http://nxt.plus:8080/Belen/1234/3270
+#EXTINF:0 type="stream" channelId="-1" name="A&E ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae-hd.png", A&E ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58123
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-hd.png", UNIVERSAL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/3271
+#EXTINF:0 type="stream" channelId="-1" name="STUDIO UNIVERSAL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal-hd.png", STUDIO UNIVERSAL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9780
+#EXTINF:0 type="stream" channelId="-1" name="SPACE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space-hd.png", SPACE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16922
+#EXTINF:0 type="stream" channelId="-1" name="TNT SERIES ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-series-hd.png", TNT SERIES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16925
+#EXTINF:0 type="stream" channelId="-1" name="TNT ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png", TNT ᴴᴰ
+http://nxt.plus:8080/Belen/1234/25213
+#EXTINF:0 type="stream" channelId="-1" name="AMC ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/amc.png", AMC ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24818
+#EXTINF:0 type="stream" channelId="-1" name="A3 SERIES ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/a3-series-hd.png", A3 SERIES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24961
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA DINAMITA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinema-dinamita-hd.png", CINEMA DINAMITA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/53020
+#EXTINF:0 type="stream" channelId="-1" name="DE PELÍCULA CLÁSICO ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-clasico.png", DE PELÍCULA CLÁSICO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/65203
+#EXTINF:0 type="stream" channelId="-1" name="DE PELÍCULA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png", DE PELÍCULA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/43492
+#EXTINF:0 type="stream" channelId="-1" name="DE PELÍCULA+ ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png", DE PELÍCULA+ ᴴᴰ
+http://nxt.plus:8080/Belen/1234/43494
+#EXTINF:0 type="stream" channelId="-1" name="DHE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/dhe.png", DHE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16929
+#EXTINF:0 type="stream" channelId="-1" name="GOLDEN PLUS ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-plus-hd.png", GOLDEN PLUS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9771
+#EXTINF:0 type="stream" channelId="-1" name="GOLDEN PREMIER 1 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier.png", GOLDEN PREMIER 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59490
+#EXTINF:0 type="stream" channelId="-1" name="GOLDEN PREMIER 2 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier-2.png", GOLDEN PREMIER 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59491
+#EXTINF:0 type="stream" channelId="-1" name="HBO 2 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-2-hd.png", HBO 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/7090
+#EXTINF:0 type="stream" channelId="-1" name="HBO FAMILY ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-family-hd.png", HBO FAMILY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/3273
+#EXTINF:0 type="stream" channelId="-1" name="HBO POP ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-pop-hd.png", HBO POP ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16902
+#EXTINF:0 type="stream" channelId="-1" name="HBO SIGNATURE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-signature-hd.png", HBO SIGNATURE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16898
+#EXTINF:0 type="stream" channelId="-1" name="HBO+ ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-plus-hd.png", HBO+ ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16900
+#EXTINF:0 type="stream" channelId="-1" name="SONY CINE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-sony-hd.png", SONY CINE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/27799
+#EXTINF:0 type="stream" channelId="-1" name="SONY MOVIES ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-movies-hd.png", SONY MOVIES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/114820
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL | Andino ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel-hd.png", STAR CHANNEL | Andino ᴴᴰ
+http://nxt.plus:8080/Belen/1234/118115
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CINEMA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-cinema-hd.png", UNIVERSAL CINEMA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9778
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL COMEDY ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-comedy-hd.png", UNIVERSAL COMEDY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24328
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CRIME ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-crime-hd.png", UNIVERSAL CRIME ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9777
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL PREMIERE 1 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-premiere-hd.png", UNIVERSAL PREMIERE 1 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/14491
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL REALITY ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-reality-hd.png", UNIVERSAL REALITY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16923
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL PREMIERE 2 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-premiere-hd.png", UNIVERSAL PREMIERE 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/167880
+#EXTINF:0 type="stream" channelId="-1" name="DISTRITO COMEDIA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/distrito-comedia-hd.png", DISTRITO COMEDIA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/59612
+#EXTINF:0 type="stream" channelId="-1" name="CINE LATINO ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-latino.png", CINE LATINO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/24648
+#EXTINF:0 type="stream" channelId="-1" name="MULTIPREMIER ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/multipremier-hd.png", MULTIPREMIER ᴴᴰ
+http://nxt.plus:8080/Belen/1234/189604
+#EXTINF:0 type="stream" channelId="-1" name="STARZ ENCORE ESPAÑOL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/starz-encore-espanol-hd.png", STARZ ENCORE ESPAÑOL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/189701
+#EXTINF:0 type="stream" channelId="-1" name="A3 CINE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/a3-cine-hd.png", A3 CINE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/189703
+#EXTINF:0 type="stream" channelId="-1" name="GOLDEN ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden.png", GOLDEN ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9769
+#EXTINF:0 type="stream" channelId="-1" name="CINECANAL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinecanal-hd.png", CINECANAL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/2833
+#EXTINF:0 type="stream" channelId="-1" name="KANAL D DRAMA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/kanal-d-drama-hd.png", KANAL D DRAMA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/57182
+#EXTINF:0 type="stream" channelId="2502" name="GOLDEN EDGE" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-edge.png", GOLDEN EDGE
+http://nxt.plus:8080/Belen/1234/169449
+#EXTINF:0 type="stream" channelId="-1" name="HBO XTREME ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-xtreme-hd.png", HBO XTREME ᴴᴰ
+http://nxt.plus:8080/Belen/1234/169451
+#EXTINF:0 type="stream" channelId="-1" name="AZ CINEMA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/az-cinema.png", AZ CINEMA ᴴᴰ
+http://nxt.plus:8080/Belen/1234/160510
+#EXTINF:0 type="stream" channelId="-1" name="HBO MUNDI ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-mundi-hd.png", HBO MUNDI ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13883
+#EXTINF:0 type="stream" channelId="-1" name="SYFY ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/syfy-hd.png", SYFY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13230
+#EXTINF:0 type="stream" channelId="-1" name="AVIVAMIENTO TV" group="RELIGIÓN" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/avivamiento-tv.png", AVIVAMIENTO TV
+http://nxt.plus:8080/Belen/1234/77104
+#EXTINF:0 type="stream" channelId="-1" name="HOSSANA VISION" group="RELIGIÓN" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/hossana-vision.png", HOSSANA VISION
+http://nxt.plus:8080/Belen/1234/115316
+#EXTINF:0 type="stream" channelId="-1" name="FARO DE SANTIDAD TV | PR" group="RELIGIÓN" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/faro-de-santidad-tv.png", FARO DE SANTIDAD TV | PR
+http://nxt.plus:8080/Belen/1234/77078
+#EXTINF:0 type="stream" channelId="-1" name="ALIENTO VISION" group="RELIGIÓN" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/aliento-vision.png", ALIENTO VISION
+http://nxt.plus:8080/Belen/1234/77103
+#EXTINF:0 type="stream" channelId="-1" name="ENLACE TV" group="RELIGIÓN" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/religion/enlace-tv.png", ENLACE TV
+http://nxt.plus:8080/Belen/1234/77067
+#EXTINF:0 type="stream" channelId="-1" name="TLNOVELAS ᴴᴰ" group="TELENOVELAS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/novelas/tlnovelas.png", TLNOVELAS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/169464
+#EXTINF:0 type="stream" channelId="-1" name="TNT NOVELAS ᴴᴰ" group="TELENOVELAS" logo="https://i.ibb.co/w0QDvf5/7f334d87-5d5a-9854-2f73-d4959739d42c.png", TNT NOVELAS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/118116
+#EXTINF:0 type="stream" channelId="-1" name="AZ CORAZON ᴴᴰ" group="TELENOVELAS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/novelas/az-corazon-hd.png", AZ CORAZON ᴴᴰ
+http://nxt.plus:8080/Belen/1234/14465
+#EXTINF:0 type="stream" channelId="-1" name="PASIONES ᴴᴰ" group="TELENOVELAS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/novelas/pasiones-hd.png", PASIONES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16920
+#EXTINF:0 type="stream" channelId="-1" name="UNIVISION TLNOVELAS ᴴᴰ" group="TELENOVELAS" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/novelas/univision-tlnovelas-hd.png", UNIVISION TLNOVELAS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/29619
+#EXTINF:0 type="stream" channelId="-1" name="SONY NOVELAS HD" group="TELENOVELAS" logo="https://i.ibb.co/MnY4b29/Sony-Telenovelas.png", SONY NOVELAS HD
+http://nxt.plus:8080/Belen/1234/191172
+#EXTINF:0 type="stream" channelId="-1" name="SONY NOVELAS ᴴᴰ" group="TELENOVELAS" logo="https://i.ibb.co/MnY4b29/Sony-Telenovelas.png", SONY NOVELAS ᴴᴰ
+http://nxt.plus:8080/Belen/1234/171772
+#EXTINF:0 type="stream" channelId="-1" name="HISTORY 2 ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/h2-hd.png", HISTORY 2 ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9783
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY THEATHER ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-theather-hd.png", DISCOVERY THEATHER ᴴᴰ
+http://nxt.plus:8080/Belen/1234/13969
+#EXTINF:0 type="stream" channelId="-1" name="ANIMAL PLANET ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/animal-planet-hd.png", ANIMAL PLANET ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16904
+#EXTINF:0 type="stream" channelId="-1" name="HISTORY CHANNEL ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/history-hd.png", HISTORY CHANNEL ᴴᴰ
+http://nxt.plus:8080/Belen/1234/16917
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY WORLD ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-world-hd.png", DISCOVERY WORLD ᴴᴰ
+http://nxt.plus:8080/Belen/1234/1639
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-hd.png", DISCOVERY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/2826
+#EXTINF:0 type="stream" channelId="-1" name="NAT GEO  ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo-hd.png", NAT GEO  ᴴᴰ
+http://nxt.plus:8080/Belen/1234/43549
+#EXTINF:0 type="stream" channelId="57" name="DISCOVERY" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery.png", DISCOVERY
+http://nxt.plus:8080/Belen/1234/59087
+#EXTINF:0 type="stream" channelId="56" name="NAT GEO" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo.png", NAT GEO
+http://nxt.plus:8080/Belen/1234/59141
+#EXTINF:0 type="stream" channelId="59" name="INVESTIGATION DISCOVERY" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-id.png", INVESTIGATION DISCOVERY
+http://nxt.plus:8080/Belen/1234/169454
+#EXTINF:0 type="stream" channelId="58" name="DISCOVERY SCIENCE" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-science.png", DISCOVERY SCIENCE
+http://nxt.plus:8080/Belen/1234/43521
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY TURBO ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-turbo-hd.png", DISCOVERY TURBO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/914
+#EXTINF:0 type="stream" channelId="-1" name="LOVE NATURE ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/love-nature-hd.png", LOVE NATURE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/118112
+#EXTINF:0 type="stream" channelId="-1" name="NAT GEO MUNDO ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo-mundo-us.png", NAT GEO MUNDO ᴴᴰ
+http://nxt.plus:8080/Belen/1234/58674
+#EXTINF:0 type="stream" channelId="-1" name="TRAVEL XP ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/travel-xp.png", TRAVEL XP ᴴᴰ
+http://nxt.plus:8080/Belen/1234/118119
+#EXTINF:0 type="stream" channelId="1455" name="HISTORY CHANNEL" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/history-channel.png", HISTORY CHANNEL
+http://nxt.plus:8080/Belen/1234/169453
+#EXTINF:0 type="stream" channelId="50" name="ANIMAL PLANET" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/animal-planet.png", ANIMAL PLANET
+http://nxt.plus:8080/Belen/1234/43501
+#EXTINF:0 type="stream" channelId="-1" name="INVESTIGATION DISCOVERY ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-id-hd.png", INVESTIGATION DISCOVERY ᴴᴰ
+http://nxt.plus:8080/Belen/1234/9784
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY SCIENCE ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-science-hd.png", DISCOVERY SCIENCE ᴴᴰ
+http://nxt.plus:8080/Belen/1234/30423
+#EXTINF:0 type="stream" channelId="-1" name="NAT GEO WILD | ES ᴴᴰ" group="CULTURA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo-wild-hd.png", NAT GEO WILD | ES ᴴᴰ
+http://nxt.plus:8080/Belen/1234/167088
